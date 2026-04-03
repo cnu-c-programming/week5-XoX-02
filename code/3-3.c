@@ -1,4 +1,4 @@
-#include <stdid.h>
+#include <stdio.h>
 
 int main() {
     int val = 7;
